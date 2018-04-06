@@ -1,0 +1,3 @@
+netstat -no
+systeminfo
+tasklist
